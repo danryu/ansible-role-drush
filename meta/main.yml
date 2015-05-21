@@ -1,6 +1,5 @@
 ---
 dependencies:
-  - { role: geerlingguy.git }
   - { role: geerlingguy.php }
   - { role: geerlingguy.composer }
 
